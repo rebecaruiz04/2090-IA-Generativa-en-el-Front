@@ -158,10 +158,14 @@ img {
     padding: 16px 48px;
     box-sizing: border-box;
     display: inline-block;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    color: var(--blanco, #FFF);
 }
 
-.destinos__elemento--boton-texto,
-.ofertas__card--boton-texto {
+.destinos__elemento--boton-texto {
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
