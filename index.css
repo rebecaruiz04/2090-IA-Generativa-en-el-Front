@@ -16,7 +16,7 @@
     max-width: 260px;
 }
 
-.encabezado__navegacion {
+.encabezado__navegacion ul {
     display: flex;
     gap: 40px;
 }
